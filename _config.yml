@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+title: An Android Space
+description: An android developer's blog
+show_downloads: false
