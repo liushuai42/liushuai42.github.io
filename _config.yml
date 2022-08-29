@@ -19,7 +19,7 @@ description: An android developer's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fenhe.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iceliushuai
-github_username:  shily
+github_username:  liushuai42
 
 # Build settings
 markdown: kramdown
